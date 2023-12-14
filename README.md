@@ -1,7 +1,7 @@
 # TinDog Project
 
-HINT: To fiure out which Bootstrap components/snippets are used. Refer to the PDF below:
-https://github.com/appbrewery/tindog/blob/main/Bootstrap-snippets.pdf
+Bootcamp Project From AppBrewery for Web Development.
+Create a website using knowledge of HTML, CSS, and Bootstrap that looks like the sections in the goal images folder.
 
 ## SVGs:
 
